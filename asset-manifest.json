@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.3e1b7648.css",
-    "main.js": "/portfolio/static/js/main.1a734c02.js",
+    "main.css": "/portfolio/static/css/main.cade8be4.css",
+    "main.js": "/portfolio/static/js/main.2ce7e4b3.js",
     "static/media/hero.jpg": "/portfolio/static/media/hero.b05b20083f48fff55639.jpg",
+    "static/media/GaMeR.pdf": "/portfolio/static/media/GaMeR.847e4b4620a161fc86dc.pdf",
     "static/media/express.png": "/portfolio/static/media/express.d61ef3d53f792ced8df2.png",
     "static/media/mongodb.svg": "/portfolio/static/media/mongodb.6835c61a518a732eb8318d43dfe8f700.svg",
     "static/media/react.svg": "/portfolio/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
@@ -15,11 +16,11 @@
     "static/media/tailwindcss.svg": "/portfolio/static/media/tailwindcss.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "static/media/html.svg": "/portfolio/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "index.html": "/portfolio/index.html",
-    "main.3e1b7648.css.map": "/portfolio/static/css/main.3e1b7648.css.map",
-    "main.1a734c02.js.map": "/portfolio/static/js/main.1a734c02.js.map"
+    "main.cade8be4.css.map": "/portfolio/static/css/main.cade8be4.css.map",
+    "main.2ce7e4b3.js.map": "/portfolio/static/js/main.2ce7e4b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e1b7648.css",
-    "static/js/main.1a734c02.js"
+    "static/css/main.cade8be4.css",
+    "static/js/main.2ce7e4b3.js"
   ]
 }
