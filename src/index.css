@@ -9,3 +9,21 @@
         font-family: "Raleway" , sans-serif;
     }
 }
+
+.homebg{
+    background-image: url("assets/bg-explosion.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    background-attachment: fixed;
+}
+
+.diffbg{
+    background-image: url("assets/bg-explosion1.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    background-attachment: fixed;
+}
