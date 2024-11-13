@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.d7a8d964.css",
-    "main.js": "/portfolio/static/js/main.1f85bc67.js",
+    "main.css": "/portfolio/static/css/main.a077ff93.css",
+    "main.js": "/portfolio/static/js/main.065e3315.js",
     "static/media/bg-explosion.png": "/portfolio/static/media/bg-explosion.d2653821eab905bd358c.png",
     "static/media/bg-explosion1.png": "/portfolio/static/media/bg-explosion1.6e7756b97e3fea985c3c.png",
     "static/media/avatar.png": "/portfolio/static/media/avatar.fb474a792ea931f4b249.png",
@@ -18,11 +18,11 @@
     "static/media/tailwindcss.svg": "/portfolio/static/media/tailwindcss.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "static/media/html.svg": "/portfolio/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "index.html": "/portfolio/index.html",
-    "main.d7a8d964.css.map": "/portfolio/static/css/main.d7a8d964.css.map",
-    "main.1f85bc67.js.map": "/portfolio/static/js/main.1f85bc67.js.map"
+    "main.a077ff93.css.map": "/portfolio/static/css/main.a077ff93.css.map",
+    "main.065e3315.js.map": "/portfolio/static/js/main.065e3315.js.map"
   },
   "entrypoints": [
-    "static/css/main.d7a8d964.css",
-    "static/js/main.1f85bc67.js"
+    "static/css/main.a077ff93.css",
+    "static/js/main.065e3315.js"
   ]
 }
