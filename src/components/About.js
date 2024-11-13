@@ -39,9 +39,10 @@ const About = () => {
                 <p className=' text-4xl font-bold inline border-b-4 border-gray-500 text-white'>About</p>
             </motion.div>
             <motion.div variants={button} initial='initial' animate='animate'>
-            <p className=' md:text-xl text-gray-400 p-9'>
-            As a recent graduate with a degree in Mechanical Engineering, I bring a unique perspective to the world of technology. While my formal education may have centered around the principles of mechanics, I've discovered a true passion for coding and problem-solving. My journey into the realm of web development and Python programming has been both thrilling and enlightening. I thrive on the challenges that coding presents, embracing each bug as an opportunity to learn and grow. With a strong foundation in engineering principles and an insatiable curiosity for all things tech, I am on a mission to become a proficient Full Stack Web Developer and a dedicated Pythoneer. My transition from gears and equations to code and algorithms is fueled by a relentless drive to create, innovate, and contribute to the ever-evolving digital landscape
-            </p></motion.div>
+            <p className='md:text-xl text-gray-400 p-9'>
+              As a recent graduate with a degree in Mechanical Engineering, I bring a unique perspective to the world of IT and system support. While my academic background focused on mechanics and problem-solving, I have developed a strong interest in technology and technical support. My journey into the field of system support and IT services has been both exciting and rewarding. I thrive on the challenges of troubleshooting and resolving technical issues, viewing each as an opportunity to grow and enhance my skills. With a solid foundation in engineering principles and a growing passion for technology, I am eager to contribute to maintaining seamless IT operations and delivering reliable technical solutions. My transition from engineering concepts to IT systems is driven by a relentless desire to learn, adapt, and make a meaningful impact in the tech industry.
+            </p>
+            </motion.div>
         </div>
     </div>
   )

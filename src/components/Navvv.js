@@ -29,7 +29,7 @@ const Navvv = () => {
     const navData = [
         { name: 'home', path: '/portfolio/', icon: <HiHome color={getClassName('/portfolio/')} /> },
         { name: 'about', path: '/portfolio/about', icon: <HiUser color={getClassName('/portfolio/about')}/> },
-        { name: 'projects', path: '/portfolio/pro', icon: <HiRectangleGroup color={getClassName('/portfolio/pro')}/> },
+        //{ name: 'projects', path: '/portfolio/pro', icon: <HiRectangleGroup color={getClassName('/portfolio/pro')}/> },
         { name: 'exp', path: '/portfolio/exp', icon: <HiViewColumns color={getClassName('/portfolio/exp')}/> },
         {
           name: 'contact',
@@ -53,11 +53,11 @@ const Navvv = () => {
         </li><li>
         <div className='font-mystyle rounded-full bg-black text-white  text-4xl px-6'>Syed</div></li>
         <li className=' pt-2'>
-        <a href="https://in.linkedin.com/" target="_blank" rel="noopener noreferrer"><FaLinkedin size={25} color='skyblue'/>
+        <a href="" target="_blank" rel="noopener noreferrer"><FaLinkedin size={25} color='skyblue'/>
           </a>
         </li>
         <li className=' pt-2'>
-        <a href="https://www.naukri.com/" target="_blank" rel="noopener noreferrer"><img className=' w-6' src={naukri} alt='naukri'/>
+        <a href="" target="_blank" rel="noopener noreferrer"><img className=' w-6' src={naukri} alt='naukri'/>
           </a>
         </li></ul>
     </div>
