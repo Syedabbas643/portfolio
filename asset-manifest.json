@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a077ff93.css",
-    "main.js": "/portfolio/static/js/main.065e3315.js",
+    "main.css": "/portfolio/static/css/main.63b4ddf2.css",
+    "main.js": "/portfolio/static/js/main.d09dddb0.js",
     "static/media/bg-explosion.png": "/portfolio/static/media/bg-explosion.d2653821eab905bd358c.png",
     "static/media/bg-explosion1.png": "/portfolio/static/media/bg-explosion1.6e7756b97e3fea985c3c.png",
     "static/media/avatar.png": "/portfolio/static/media/avatar.fb474a792ea931f4b249.png",
-    "static/media/GaMeR.pdf": "/portfolio/static/media/GaMeR.847e4b4620a161fc86dc.pdf",
+    "static/media/GaMeR.pdf": "/portfolio/static/media/GaMeR.770d34dd45c2c9b52339.pdf",
     "static/media/express.png": "/portfolio/static/media/express.d61ef3d53f792ced8df2.png",
     "static/media/mongodb.svg": "/portfolio/static/media/mongodb.6835c61a518a732eb8318d43dfe8f700.svg",
     "static/media/react.svg": "/portfolio/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
@@ -18,11 +18,11 @@
     "static/media/tailwindcss.svg": "/portfolio/static/media/tailwindcss.e7b4a92d5aefbddd6f0651c024144be2.svg",
     "static/media/html.svg": "/portfolio/static/media/html.8664168d5bc90b1a24396f85aadbf623.svg",
     "index.html": "/portfolio/index.html",
-    "main.a077ff93.css.map": "/portfolio/static/css/main.a077ff93.css.map",
-    "main.065e3315.js.map": "/portfolio/static/js/main.065e3315.js.map"
+    "main.63b4ddf2.css.map": "/portfolio/static/css/main.63b4ddf2.css.map",
+    "main.d09dddb0.js.map": "/portfolio/static/js/main.d09dddb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.a077ff93.css",
-    "static/js/main.065e3315.js"
+    "static/css/main.63b4ddf2.css",
+    "static/js/main.d09dddb0.js"
   ]
 }
